@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tcharles123
-- 👀 I’m interested in  trabalhar na area de programação, na area de desenvolvedor JAVA júnior  
-- 🌱 I’m currently learning  programação JAVA pela UDEMY, HTML e CSS 
-- 💞️ I’m looking to collaborate on  desenvolvimento de sistemas  
+- 👋 Sou Tcharles Lassen
+- 👀 Estou interessado em trabalhar na área de programação na parte de desenvolvedor JAVA júnior  
+- 🌱 Atualmente estou estudando  desenvolvimento JAVA na UDEMY, HTML e CSS
+- 💞️ Procuro colaborar no desenvolvimento de sistemas   
 - 📫 Me encontrar através do número (51) 989460084 ou pelo e-mail tcharlesdavilassen@gmail.com
 
 <!---
